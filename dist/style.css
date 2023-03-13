@@ -1,0 +1,92 @@
+.anakin{
+  background-image: url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+  background-position: center;
+  height: 250px;
+  background-size: cover;
+  font-family: Abril Fatface;
+  font-size: 20px;
+  color: #222
+}
+
+h1{
+  position: absolute;
+  top: 160px;
+  left: 300px;
+}
+
+h3{
+  position: absolute;
+  top: 140px;
+  left: 300px;
+}
+
+blockquote{
+  font-family: Abril Fatface;
+  text-align: center;
+  line-height: 90px;
+  color: white;
+  background: #444444;
+  font-size: 30px;
+  width: 500px;
+  height: 100px;
+  margin: 50px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+p{
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: Josefin Slab, serif;
+  font-weight: bolder;
+  color: #424445;
+  line-height: 20pt;
+  font-size: 15px;
+}
+
+ul{
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: Josefin Slab, serif;
+  font-weight: bolder;
+  color: #424445;
+  line-height: 20pt;
+  font-size: 15px;
+}
+
+h2{
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: Merriweather;
+  color: #424445;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+h4{
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: Merriweather;
+  color: #424445;
+  line-height: 25pt;
+  font-size: 15px;
+}
+
+h5{
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: Merriweather;
+  color: #424445;
+  line-height: 25pt;
+  font-size: 14px;
+}
+
+h6{
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: Merriweather;
+  color: #424445;
+  line-height: 25pt;
+  font-size: 13px;
+}
